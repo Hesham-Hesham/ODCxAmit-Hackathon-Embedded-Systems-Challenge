@@ -1,0 +1,11 @@
+if proteus shows :
+-Unable to open HEX file '..\..\..\..\..\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY\GpsTEP.HEX'. [GPS1]
+or
+-Unable to open HEX file '..\..\..\..\..\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY\InfraredSensorsTEP.HEX'. [IR1]
+
+just double click on the sensor that has the error and locate the hex file in your library folder in Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\
+
+
+---------------------
+
+Also locate the hex or elf file for the atmega in the debug folder in the workspace
